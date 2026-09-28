@@ -1,4 +1,4 @@
-##Project Management Dashboard##
+# Project Management Dashboard
 
 A full-stack project management platform designed to help teams organize, track, and monitor projects from a centralized dashboard. The application provides a comprehensive view of project progress, tasks, timelines, budgets, priorities, team members, and project-related data.
 
